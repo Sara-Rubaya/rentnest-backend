@@ -57,7 +57,7 @@ postman_collection.json
    ```bash
    npm run dev
    ```
-   API runs at `http://localhost:5000`, docs at `http://localhost:5000/api-docs`.
+   API runs at `rentnest-backend-seven.vercel.app`, docs at `https://rentnest-backend-seven.vercel.app/api-docs/`.
 
 ## Testing Payments Without a Public Webhook
 
